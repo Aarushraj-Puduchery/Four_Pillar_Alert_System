@@ -16,8 +16,8 @@ A four-pillar vehicle alert system, this system is helpful to reduce accidents a
 ## Working Video
 https://github.com/Aarushraj-Puduchery/Four_Pillar_Alert_System/assets/97360295/262a487e-24a4-4e85-a2e6-42f9ac257309
 
-## Circuit Diagram
-![image](https://github.com/Aarushraj-Puduchery/Four_Pillar_Alert_System/assets/97360295/8214fa3e-8ec0-47bb-af85-76024660dd54)
+## Schematic Diagram
+![Schematic_Four-Pillar-Alert-System](https://github.com/Aarushraj-Puduchery/Four_Pillar_Alert_System/assets/97360295/aa63a097-6a61-44e3-bd54-efa3be623c67)
 
 ## WORKING
 The working of the Four Pillar system (Alert system) is simple. When a vehicle is detected using an IR sensor either downhill or uphill, then an alert signal is displayed on the other side of the hill, LED on the opposite side turns to RED and the gate is closed until the same vehicle is detected on the other side, at that time the LED turns to Green and gate opens.
