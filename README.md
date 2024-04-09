@@ -7,8 +7,7 @@ Many accidents occur at sharp turns, especially on narrow roads for example ghat
 Also in hilly areas due to the narrow roads, it will be difficult for two vehicles to pass in opposite directions so even to reduce this problem we need to develop a system that can manage the flow of vehicles smoothly on narrow roads.
 
 ## Abstract
-A Four Pillar Alert System. This system is designed to reduce accidents on roads with blind curves and hairpin bends.
-If a vehicle is detected on one side of the road, an alert signal will stop it on the other side to prevent accidents and traffic congestion.
+A four-pillar vehicle alert system, this system is helpful to reduce accidents at Blind curves and hair-pin bend roads. When a vehicle is detected on one side of the road Alert signal will be provided and vehicle will be stopped on the other side of the road to prevent road accidents and traffic congestion at blind curves.
 
 ## Images
 |![IMG_20240409_192007](https://github.com/Aarushraj-Puduchery/Four_Pillar_Alert_System/assets/97360295/c8dd3167-9321-4058-9c67-76fb0b5fa0aa)|![IMG_20240409_191950](https://github.com/Aarushraj-Puduchery/Four_Pillar_Alert_System/assets/97360295/73e99a6d-d858-4838-bb7e-2cccc9bf8d62)|
@@ -21,12 +20,13 @@ https://github.com/Aarushraj-Puduchery/Four_Pillar_Alert_System/assets/97360295/
 ![image](https://github.com/Aarushraj-Puduchery/Four_Pillar_Alert_System/assets/97360295/8214fa3e-8ec0-47bb-af85-76024660dd54)
 
 ## WORKING
-The working of the Four Pillar system (Alert system) is simple. When a vehicle is detected using an IR sensor either downhill or uphill, then an alert signal is displayed on the other side of the hill and the gate is closed until the vehicle is detected on the other side. At the same time, an RGB LED light will blow.
+The working of the Four Pillar system (Alert system) is simple. When a vehicle is detected using an IR sensor either downhill or uphill, then an alert signal is displayed on the other side of the hill, LED on the opposite side turns to RED and the gate is closed until the same vehicle is detected on the other side, at that time the LED turns to Green and gate opens.
 
 ## Source Code
+"Uturn_Alert_System_V1.0.ino" File
 
 ## Component List
-|S.No|Name|Quanity|Price|
+|S.No|Name|Quanity|Price(in Rupees)|
 |---|---|---|---|
 |1|Arduino Nano|1|300|
 |2|16x2 LCD Display i2c|2|320|
